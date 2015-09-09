@@ -27,5 +27,5 @@ mod "puppetlabs/concat", :latest
 #  :ref => '3611ae4253ff01762f9bda1d93620edf8f9a3b22'
 
 mod 'helloworld',
-	:git => 'https://github.com/ipeldridge/puppet-helloworld.git',
+	:git => 'https://github.com/hpcprofessional/puppet-helloworld.git',
 	:ref => '5613735c91272799a3f57776b002dda41ec3d4e7'
