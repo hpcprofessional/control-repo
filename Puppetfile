@@ -28,4 +28,4 @@ mod "puppetlabs/concat", :latest
 
 mod 'helloworld',
 	:git => 'https://github.com/hpcprofessional/puppet-helloworld.git',
-	:ref => '2157d4a173bff80709cd01e04b93c92d724f2860'
+	:ref => '811831a20aaac87e4670f54c555290cbe5c94dda'
